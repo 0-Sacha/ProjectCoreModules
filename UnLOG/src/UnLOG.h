@@ -1,8 +1,8 @@
 #pragma once
 
-#include "EngineCore/LoggerManager/LoggerManager.h"
+#include "ProjectCore/LoggerManager/LoggerManager.h"
 
-namespace EngineCore::UnLOG
+namespace ProjectCore::UnLOG
 {
 	struct LogBuffer
 	{

@@ -1,9 +1,8 @@
 #pragma once
 
-#include "EngineCorepch.h"
-#include "EngineCore/UnLOG/src/UnLOG.h"
+#include "ProjectCore/UnLOG/src/UnLOG.h"
 
-namespace EngineCore::UnLOG::InterfaceImGUI
+namespace ProjectCore::UnLOG::InterfaceImGUI
 {
 	class BasicConsole
 	{
